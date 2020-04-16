@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/sumit/.local/share/virtualenvs/lead_manager_DR-1NEqdDo3/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "git.ignoreLimitWarning": true
+}
